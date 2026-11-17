@@ -6,3 +6,4 @@ projects/*/test/
 projects/*/src/
 projects/*/stt.log
 __pycache__/
+projects/*/__pycache__/
