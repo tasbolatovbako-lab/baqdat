@@ -10,3 +10,4 @@ projects/*/__pycache__/
 reference/*/reel.mp4
 reference/*/frames/
 reference/*/full/
+projects/*/music/m*.mp3
