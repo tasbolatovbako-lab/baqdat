@@ -5,3 +5,4 @@ projects/*/out/
 projects/*/test/
 projects/*/src/
 projects/*/stt.log
+__pycache__/
