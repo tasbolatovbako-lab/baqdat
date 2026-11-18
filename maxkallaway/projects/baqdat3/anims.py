@@ -50,7 +50,7 @@ ANIMS = {
      giant=[
        dict(text='ИІС', src=(3.0, 5.6), y=470),
        dict(text='ALDEBARAN', src=(6.8, 8.25), y=470),
-       dict(text='АҚ ГҮЛ', src=(16.1, 18.6), y=420),
+       dict(text='АҚ ГҮЛ', src=(16.1, 18.05), y=420),
        dict(text='МІНЕЗ', src=(27.3, 29.6), y=420),
        dict(text='UNISEX', src=(45.2, 47.6), y=420),
        dict(text='TAMSHI', src=(64.5, 66.8), y=420),
