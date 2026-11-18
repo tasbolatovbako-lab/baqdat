@@ -1,0 +1,13 @@
+inbox/
+projects/*/audio/
+projects/*/chunks/
+projects/*/out/
+projects/*/test/
+projects/*/src/
+projects/*/stt.log
+__pycache__/
+projects/*/__pycache__/
+reference/*/reel.mp4
+reference/*/frames/
+reference/*/full/
+projects/*/music/m*.mp3
